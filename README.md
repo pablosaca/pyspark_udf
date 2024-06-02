@@ -7,4 +7,4 @@ en el que se define una `pandas-udf` para realizar predicciones sobre una muestr
 
 # Requirements
 
-Se emplea databricks-community
+Se emplea Databricks Community Edition
